@@ -72,7 +72,7 @@ function Footer() {
             Products
           </h6>
           <p>
-            <a href="#!" className="text-reset text-decoration-none">electronics</a>
+            <a href="./detalis" className="text-reset text-decoration-none">electronics</a>
           </p>
           <p>
             <a href="#!" className="text-reset text-decoration-none">Mobail</a>
